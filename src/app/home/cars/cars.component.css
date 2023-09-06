@@ -1,0 +1,15 @@
+.card-title{
+    color: rgb(221, 22, 62);
+}
+.btn{
+    background-color: rgb(221, 22, 62);
+}
+.btn:hover{
+    background-color: rgb(221, 22, 62);
+}
+.card{
+    transition: transform .6s;
+}
+.card:hover{
+    transform: scale(120%);
+}

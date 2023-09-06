@@ -1,0 +1,19 @@
+button{
+    color: rgb(221, 22, 62);
+}
+.internet{
+    background-color: rgb(221, 22, 62);
+}
+
+.television{
+    background-color: rgb(43, 43, 43);
+}
+ul{
+    list-style-type: none;
+}
+.go{
+    color: rgb(221, 22, 62);
+}
+.tv{
+    color: rgb(71, 179, 218);
+}

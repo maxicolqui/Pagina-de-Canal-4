@@ -1,0 +1,14 @@
+ul {
+    list-style-type: none;
+}
+
+.row{
+    background: rgb(1,0,8);
+    background-color:rgb(221, 22, 62);
+}
+
+.red{
+    color:rgb(49, 181, 216) ;
+    font-size:50px;
+}
+

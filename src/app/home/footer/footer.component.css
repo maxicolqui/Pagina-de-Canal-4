@@ -1,0 +1,13 @@
+a{
+    text-decoration: none;
+}
+a.ins:hover{
+    color: rgb(221, 22, 62);
+}
+a.you:hover{
+    color: red;
+}
+
+footer{
+    background-color:rgb(233, 233, 232) ;
+}
